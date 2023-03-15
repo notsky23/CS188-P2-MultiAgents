@@ -41,7 +41,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225209310-b82ea097-2e14-478f-bae5-1227c65e380d.png)<br><br>
 
 ### Q4 - Expectimax<br>
-<br><br>
+![Expectimax Agent](https://user-images.githubusercontent.com/98131995/225213467-ea790e53-e637-4801-9c6f-c63ce28141ea.gif)<br>
+![image](https://user-images.githubusercontent.com/98131995/225213515-c60bd3e1-7e36-404a-b463-2055fd4781a1.png)<br><br>
 
 ### Q5 - Evaluation Function<br>
 <br>
