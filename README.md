@@ -21,6 +21,8 @@ The code is included in this repo.<br><br>
 Q1 - Reflex Agent<br>
 ![Reflex Agent](https://user-images.githubusercontent.com/98131995/225192276-92bacb79-9fd4-4f10-9ccc-1dc5c64531ac.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225192418-51290b06-7f41-43ce-8e81-3dfd086197d9.png)<br><br>
+![Reflex Agent Q1](https://user-images.githubusercontent.com/98131995/225194965-efab27f5-3534-4971-8145-b9e60d9c6f0b.gif)<br>
+![image](https://user-images.githubusercontent.com/98131995/225195091-78ce1b3b-0503-4553-bca5-39a943a0a7dc.png)<br><br>
 
 Q2 - Minimax<br>
 <br><br>
