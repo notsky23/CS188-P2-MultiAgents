@@ -25,6 +25,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225195091-78ce1b3b-0503-4553-bca5-39a943a0a7dc.png)<br><br>
 
 ### Q2 - Minimax<br>
+![Minimax Agent](https://user-images.githubusercontent.com/98131995/225198867-25fd61dc-d922-4e76-81b5-ce47f41c5d6a.gif)<br>
+![image](https://user-images.githubusercontent.com/98131995/225198926-d44298fd-8d3c-4f75-b57e-8b2dd0df1db1.png)<br><br>
 <br><br>
 
 ### Q3 - Alpha-Beta Pruning<br>
