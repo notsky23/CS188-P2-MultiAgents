@@ -41,6 +41,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225209310-b82ea097-2e14-478f-bae5-1227c65e380d.png)<br><br>
 
 ### Q4 - Expectimax<br>
+![image](https://user-images.githubusercontent.com/98131995/225215285-240a6c12-cba5-434f-9e5a-29278fc605f5.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225215031-4f0d9d5c-928b-4c88-80c4-3cf4eb4e5612.png)<br><br>
 ![Expectimax Agent](https://user-images.githubusercontent.com/98131995/225213467-ea790e53-e637-4801-9c6f-c63ce28141ea.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225213515-c60bd3e1-7e36-404a-b463-2055fd4781a1.png)<br><br>
 ![Expectimax Agent Q4](https://user-images.githubusercontent.com/98131995/225214544-1e62bba2-0c28-4ceb-b322-ab3dc2b650e7.gif)<br>
