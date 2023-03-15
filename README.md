@@ -33,6 +33,7 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225200775-5336017a-a0ed-4a01-a165-1789ea76bdca.png)<br><br>
 
 ### Q3 - Alpha-Beta Pruning<br>
+![AlphaBeta Agent](https://user-images.githubusercontent.com/98131995/225208196-136d44c1-cd62-40fe-8a1c-aa2bee913cf0.gif)<br>
 <br><br>
 
 ### Q4 - Expectimax<br>
