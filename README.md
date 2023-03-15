@@ -49,5 +49,5 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225214708-eb30bb54-51e2-4e2e-bc8f-1e14d281836c.png)<br><br>
 
 ### Q5 - Evaluation Function<br>
-<br>
+![Evaluation Function Q5gif](https://user-images.githubusercontent.com/98131995/225216779-9b183dde-8921-4498-90b5-8e1f4f5bbdea.gif)<br>
 <br><br>
