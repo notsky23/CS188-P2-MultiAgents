@@ -35,6 +35,8 @@ The code is included in this repo.<br><br>
 ### Q3 - Alpha-Beta Pruning<br>
 ![AlphaBeta Agent](https://user-images.githubusercontent.com/98131995/225208196-136d44c1-cd62-40fe-8a1c-aa2bee913cf0.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225208457-a9d333c3-5947-4131-b2f9-6f6cad3a0d93.png)<br><br>
+![AlphaBeta Agent Q3](https://user-images.githubusercontent.com/98131995/225209172-94d6f6b1-4b6a-4e3a-b344-535701ac7bd4.gif)<br>
+
 
 ### Q4 - Expectimax<br>
 <br><br>
