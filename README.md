@@ -33,7 +33,7 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225200775-5336017a-a0ed-4a01-a165-1789ea76bdca.png)<br><br>
 
 ### Q3 - Alpha-Beta Pruning<br>
-![image](https://user-images.githubusercontent.com/98131995/225210701-72d3a45a-090b-46dc-abae-5f3b89e065c9.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225210795-a45cf7f1-e0e4-4c56-a8f8-e855ce9ad8ba.png)<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225210635-0b1a704b-aab2-4234-b568-fdab2f41e00f.png)<br><br>
 ![AlphaBeta Agent](https://user-images.githubusercontent.com/98131995/225208196-136d44c1-cd62-40fe-8a1c-aa2bee913cf0.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225208457-a9d333c3-5947-4131-b2f9-6f6cad3a0d93.png)<br><br>
