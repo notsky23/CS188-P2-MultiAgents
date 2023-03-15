@@ -10,7 +10,7 @@ This project is a practice with different AI adversarial agents.<br>
 
 In this project, we will create a PacMan AI agent that uses adversarial AI algorithms to calculate which moves would help him win the game or get the highest score it can given various scenarios, or series of goal positions.<br>
 
-These AI agents do this by calculating for posible future positions of player and opponent. The objective is to maximize the score of the player while minimizing the score of the opponent.<br><br>
+These AI agents do this by calculating for posible future positions of the agent its opponent. The objective is to maximize the score of the agent while minimizing the score of the opponent.<br><br>
 
 ## Results:<br>
 
