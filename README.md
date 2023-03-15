@@ -50,4 +50,4 @@ The code is included in this repo.<br><br>
 
 ### Q5 - Evaluation Function<br>
 ![Evaluation Function Q5gif](https://user-images.githubusercontent.com/98131995/225216779-9b183dde-8921-4498-90b5-8e1f4f5bbdea.gif)<br>
-<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225216921-da0d4bd6-1f97-4179-88ef-d8a7216f3cfe.png)<br><br>
