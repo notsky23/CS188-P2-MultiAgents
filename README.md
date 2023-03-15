@@ -25,6 +25,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225195091-78ce1b3b-0503-4553-bca5-39a943a0a7dc.png)<br><br>
 
 ### Q2 - Minimax<br>
+![image](https://user-images.githubusercontent.com/98131995/225205133-2cbf3ee4-e21b-4f8c-876a-3a975871834c.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225204969-effee582-3e9c-4c73-b458-5918a893a1df.png)<br><br>
 ![Minimax Agent](https://user-images.githubusercontent.com/98131995/225198867-25fd61dc-d922-4e76-81b5-ce47f41c5d6a.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225198926-d44298fd-8d3c-4f75-b57e-8b2dd0df1db1.png)<br><br>
 ![Minimax Agent Q2](https://user-images.githubusercontent.com/98131995/225200429-f02aeaf6-9731-40b9-8604-5492d46c8ffa.gif)<br>
