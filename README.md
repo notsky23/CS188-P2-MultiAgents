@@ -28,7 +28,7 @@ The code is included in this repo.<br><br>
 ![Minimax Agent](https://user-images.githubusercontent.com/98131995/225198867-25fd61dc-d922-4e76-81b5-ce47f41c5d6a.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225198926-d44298fd-8d3c-4f75-b57e-8b2dd0df1db1.png)<br><br>
 ![Minimax Agent Q2](https://user-images.githubusercontent.com/98131995/225200429-f02aeaf6-9731-40b9-8604-5492d46c8ffa.gif)<br>
-![image](https://user-images.githubusercontent.com/98131995/225200602-a1943fa7-8760-40cc-911d-59ebbec09e6c.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225200775-5336017a-a0ed-4a01-a165-1789ea76bdca.png)<br><br>
 
 ### Q3 - Alpha-Beta Pruning<br>
 <br><br>
