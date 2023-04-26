@@ -142,7 +142,7 @@ class MultiAgentSearchAgent(Agent):
     You *do not* need to make any changes here, but you can if you want to
     add functionality to all your adversarial search agents.  Please do not
     remove anything, however.
-
+s
     Note: this is an abstract class: one that should not be instantiated.  It's
     only partially specified, and designed to be extended.  Agent (game.py)
     is another abstract class.
